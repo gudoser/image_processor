@@ -1,3 +1,0 @@
-/Users/gudoser/ami-Andrei-Ovchinnikov-Andrey_Ovchinnokov/tasks/image_processor/build/CMakeFiles/image_processor.dir
-/Users/gudoser/ami-Andrei-Ovchinnikov-Andrey_Ovchinnokov/tasks/image_processor/build/CMakeFiles/edit_cache.dir
-/Users/gudoser/ami-Andrei-Ovchinnikov-Andrey_Ovchinnokov/tasks/image_processor/build/CMakeFiles/rebuild_cache.dir

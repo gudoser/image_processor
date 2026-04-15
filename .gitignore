@@ -1,0 +1,8 @@
+build/
+CMakeFiles/
+Testing/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+image_processor
+.DS_Store
